@@ -170,6 +170,8 @@ You can just remove the MO2 folder and be done with it.
 
 ## Contact
 
+[CONTACT INFO PENDING]
+
 **Please do not DM me on Discord, I will not respond.**
 
 ## Changelog
