@@ -6,7 +6,7 @@
 
 <!-- TOC -->
 
-- [Twenty is Plenty](#Twenty is Plenty)
+- [Twenty is Plenty](#twenty-is-plenty)
     - [Preamble](#preamble)
     - [System Requirements](#system-requirements)
     - [Installation](#installation)
