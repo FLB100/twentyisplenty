@@ -168,7 +168,7 @@ You can just remove the MO2 folder and be done with it.
 
 [CONTACT INFO PENDING]
 
-**Please do not DM me on Discord, I will not respond.**
+I don't have a support discord server up as of yet, so if you have any issues please message me on discord `granfdad#7124`.
 
 ## Changelog
 
