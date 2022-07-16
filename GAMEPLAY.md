@@ -1,5 +1,9 @@
 # Here's a list of the 20 mods features in Twenty is Plenty, plus my personal reasoning for including them.
 
+-=- [Readme](README.md)
+-=- [Gameplay](GAMEPLAY.md)
+-=- [Changelog](CHANGELOG.md) -=-
+
 ## 1 - [SKYUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 
 **Description:**
