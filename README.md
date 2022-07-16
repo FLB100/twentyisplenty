@@ -26,15 +26,11 @@
         - [Game Folder](#game-folder)
         - [ENB](#enb)
     - [The video game has been modified](#the-video-game-has-been-modified)
-    - [How to start up Twenty is Plenty](#how-to-start-up-Twenty is Plenty)
+    - [How to start up Twenty is Plenty](#how-to-start-up-twenty-is-plenty)
     - [Updating](#updating)
-    - [Creating your Character](#creating-your-character)
     - [In-Game MCM Options](#in-game-mcm-options)
         - [Optional Survival Config](#optional-survival-config)
     - [Other Post Installation FAQ](#other-post-installation-faq)
-        - [Ultrawide Options](#ultrawide-options)
-        - [Tweaking the Game Settings](#tweaking-the-game-settings)
-        - [Zoomed in Display](#zoomed-in-display)
         - [Removing the Modlist](#removing-the-modlist)
     - [Credits and Thanks](#credits-and-thanks)
     - [Contact](#contact)
@@ -166,7 +162,7 @@ You can just remove the MO2 folder and be done with it.
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - erri120 & jdsmith2816 - Repository template
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- Halgari and everyone the WJ Team - Wabbajack is the best thing to happen to skyrim modding in a long while :)
 
 ## Contact
 
