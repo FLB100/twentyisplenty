@@ -1,6 +1,6 @@
-# Here's a list of the 20 mods features in Twenty is Plenty, plus my personal reasoning for including them.
+## Here's a list of the 20 mods features in Twenty is Plenty, plus my personal reasoning for including them.
 
-1 - [SKYUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+#1 - [SKYUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
     
 **Description:**
 
@@ -10,7 +10,7 @@
 
 You know it, you love it, its a must have. Could be considered a utility mod because of the MCM, but it drastically changes the UI, so I decided it counted as a full mod.
 
-2 - [Smoothcam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+#2 - [Smoothcam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
     
 **Description:**
 
@@ -20,7 +20,7 @@ You know it, you love it, its a must have. Could be considered a utility mod bec
 
 Vanilla's camera is awful, even if you play mostly in first person. This is a huge improvement.
 
-3 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+#3 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
     
 **Description:**
 
@@ -30,7 +30,7 @@ Vanilla's camera is awful, even if you play mostly in first person. This is a hu
 
 The biggest mod release of 2021, now a neccessity.
 
-4 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
+#4 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
     
 **Description:**
 
@@ -41,7 +41,7 @@ The biggest mod release of 2021, now a neccessity.
 This one might get cut in favour of something else, but it increases map legibility so much that I had to include it.
 
 
-5 - [Enhanced textures detail (UV-tweaks)](https://www.nexusmods.com/skyrimspecialedition/mods/992)
+#5 - [Enhanced textures detail (UV-tweaks)](https://www.nexusmods.com/skyrimspecialedition/mods/992)
     
 **Description:**
 
@@ -51,7 +51,7 @@ This one might get cut in favour of something else, but it increases map legibil
 
 This list doesn't have any texture mods, so this just squeezes a bit more quality out of the vanilla textures.
 
-6 - [Myrkvior - The Flora Of Skyrim - Trees SSE](https://www.nexusmods.com/skyrimspecialedition/mods/28406)
+#6 - [Myrkvior - The Flora Of Skyrim - Trees SSE](https://www.nexusmods.com/skyrimspecialedition/mods/28406)
     
 **Description:**
 
@@ -61,7 +61,7 @@ This list doesn't have any texture mods, so this just squeezes a bit more qualit
 
 Good trees :)
 
-7 - [Folkvangr - Grass and Landscape Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44899)
+#7 - [Folkvangr - Grass and Landscape Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44899)
     
 **Description:**
 
@@ -71,7 +71,7 @@ Good trees :)
 
 Good grass :)
 
-8 - [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074)
+#8 - [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074)
     
 **Description:**
 
@@ -81,7 +81,7 @@ Good grass :)
 
 Overhauls the important cities and gives them some new life. I prefer this to JK's
 
-9 - [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681)
+#9 - [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681)
     
 **Description:**
 
@@ -91,7 +91,7 @@ Overhauls the important cities and gives them some new life. I prefer this to JK
 
 Balances out Skyrim and encourages risk taking.
 
-10 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+#10 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
     
 **Description:**
 
@@ -101,7 +101,7 @@ Balances out Skyrim and encourages risk taking.
 
 Encourages exploration and quest-taking. Improves upon Beth's (in my opinion, awful) use-to-level system.
 
-11 - [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
+#11 - [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
     
 **Description:**
 
@@ -112,7 +112,7 @@ Encourages exploration and quest-taking. Improves upon Beth's (in my opinion, aw
 Sure the world is ending but I want to fish, leave me alone delphine! Improves pacing.
 
 
-12 - [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+#12 - [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272)
     
 **Description:**
 
@@ -122,7 +122,7 @@ Sure the world is ending but I want to fish, leave me alone delphine! Improves p
 
 Simpler than Alternate Perspective, with a similar amount of choice.
 
-13 - [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
+#13 - [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
     
 **Description:**
 
@@ -132,7 +132,7 @@ Simpler than Alternate Perspective, with a similar amount of choice.
 
 It's the one I'm used to lmao.
 
-14 - [Armor Variants Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/34100)
+#14 - [Armor Variants Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/34100)
     
 **Description:**
 
@@ -142,7 +142,7 @@ It's the one I'm used to lmao.
 
 Lore friendly and doesn't take away from the creation club armors or other mods in this list.
 
-15 - [Reforging - To the Masses (Weapons Expansion)](https://www.nexusmods.com/skyrimspecialedition/mods/49030)
+#15 - [Reforging - To the Masses (Weapons Expansion)](https://www.nexusmods.com/skyrimspecialedition/mods/49030)
     
 **Description:**
 
@@ -152,7 +152,7 @@ Lore friendly and doesn't take away from the creation club armors or other mods 
 
 Improves weapon variety and keeps things believable.
 
-16 - [Interesting NPCs SE (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
+#16 - [Interesting NPCs SE (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
     
 **Description:**
 
@@ -162,7 +162,7 @@ Improves weapon variety and keeps things believable.
 
 I was conflicted about adding this because of some of the voice acting, but it adds a lot of content so it made the cut.
 
-17 - [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461)
+#17 - [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461)
     
 **Description:**
 
@@ -173,7 +173,7 @@ I was conflicted about adding this because of some of the voice acting, but it a
 He's cannon at this point. Some people don't like his VA, my only regret is that I couldn't get Lucien in as well ;).
 
 
-18 - [Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658)
+#18 - [Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658)
     
 **Description:**
 
@@ -183,7 +183,7 @@ He's cannon at this point. Some people don't like his VA, my only regret is that
 
 Pretty much the best vanilla+ NPC overhaul.
 
-19 - [Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+#19 - [Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
     
 **Description:**
 
@@ -193,7 +193,7 @@ Pretty much the best vanilla+ NPC overhaul.
 
 I was conflicted about adding this as well (I find it's got some major feature creep), but no other mod adds this much content into the skyrim worldspace so it made the cut.
 
-20 - [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
+#20 - [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
     
 **Description:**
 
