@@ -43,9 +43,9 @@
 
 Tired of all those 90gb modlists? Think 800 mods is to many? Me too, I think that Twenty is Plenty.
 
-This modlist has a simple goal: Improve Skyrim in as many ways as possible, with only 20 mods*
+This modlist has a simple goal: Improve Skyrim in as many ways as possible, with only* 20 mods
 
-* not including stability/patch/utility/bugfix mods
+*not including stability/patch/utility/bugfix mods
 
 THIS MODLIST REQUIRES THE ANNIVERSARY EDITION CONTENT TO FUNCTION
 
