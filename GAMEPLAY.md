@@ -2,7 +2,7 @@
 
 1 - [SKYUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
     
-**Description:
+**Description:**
 
 *Elegant, PC-friendly interface mod with many advanced features.
 
