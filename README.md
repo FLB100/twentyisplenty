@@ -28,8 +28,6 @@
     - [The video game has been modified](#the-video-game-has-been-modified)
     - [How to start up Twenty is Plenty](#how-to-start-up-twenty-is-plenty)
     - [Updating](#updating)
-    - [In-Game MCM Options](#in-game-mcm-options)
-        - [Optional Survival Config](#optional-survival-config)
     - [Other Post Installation FAQ](#other-post-installation-faq)
         - [Removing the Modlist](#removing-the-modlist)
     - [Credits and Thanks](#credits-and-thanks)
