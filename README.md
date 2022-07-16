@@ -1,8 +1,8 @@
 ## Twenty is Plenty
 
-[Readme](README.md)
-[Gameplay](GAMEPLAY.md)
-[Changelog](CHANGELOG.md)
+-=-[Readme](README.md)
+-=-[Gameplay](GAMEPLAY.md)
+-=-[Changelog](CHANGELOG.md)
 
 <!-- TOC -->
 
