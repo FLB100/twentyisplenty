@@ -1,4 +1,4 @@
-## Twenty is Plenty
+# Twenty is Plenty
 
 -=- [Readme](README.md)
 -=- [Gameplay](GAMEPLAY.md)
