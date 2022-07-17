@@ -132,11 +132,11 @@ The installation will create a copy of your Skyrim Special Edition game in `Inst
 
 Twenty is Plenty doesn't come with an ENB, or with ENB binaries, you'll have to intall them yourself. Just remember that the game is running out of `Installation Folder/Game Root`, so you'll want to put ENB files there.
 
-Please note that Twenty is Plenty doesn't have any weather or lighting mods, so your choices might be slim.
+Please note that Twenty is Plenty uses Dolomite Weathers and no other lighting mods (such as ELFX or Lux).
 
 ## The video game has been modified
 
-While there aren't a lot of mods in this list, the game still has some important differences see [Gameplay] (GAMEPLAY.md) for details.
+While there aren't a lot of mods in this list, the game still has some important differences, see [Gameplay] (GAMEPLAY.md) for details.
 
 ## How to start up Twenty is Plenty
 
