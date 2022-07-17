@@ -27,4 +27,4 @@
 
 ## Alpha 1.0.0
 
-- Initial (alpha) release, yay!
+-Initial (alpha) release, yay!
