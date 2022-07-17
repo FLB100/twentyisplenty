@@ -14,15 +14,15 @@
 
 You know it, you love it, its a must have. Could be considered a utility mod because of the MCM, but it drastically changes the UI, so I decided it counted as a full mod.
 
-## 2 - [Smoothcam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+## 2 - [Dolomite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/7895)
 
 **Description:**
 
-*SmoothCam adds a frame-interpolated third-person camera to Skyrim Special Edition, with well over a hundred different user configurable options and a preset system to let you easily swap between completely different camera setups.*
+*A lightweight weather overhaul designed like an ENB*
 
 **Reasoning:**
 
-Vanilla's camera is awful, even if you play mostly in first person. This is a huge improvement.
+A great change of pace from vanilla's dreary weathers. Also has decent ENB support, if you want to add an ENB to your install.
 
 ## 3 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
 
@@ -32,18 +32,17 @@ Vanilla's camera is awful, even if you play mostly in first person. This is a hu
 
 **Reasoning:**
 
-The biggest mod release of 2021, now a neccessity.
+Even though Twenty is Plenty wasn't designed for third person, TDM is still an essential.
 
-##4 - [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
+## 4 - [Hammet's Dungeon Packs for SE](https://www.nexusmods.com/skyrimspecialedition/mods/12186)
 
 **Description:**
 
-*Provides a new set of highly-detailed 3D or paper world map textures, complete with roads! Also adds a detailed Solsteim map.*
+*Twenty Six (26) dungeons added to Skyrim and Solstheim to discover and explore plus a new world space called Desolate Veil, realm of Lord Vuldur*
 
 **Reasoning:**
 
-This one might get cut in favour of something else, but it increases map legibility so much that I had to include it.
-
+Great for exploration and high level content.
 
 ## 5 - [Enhanced textures detail (UV-tweaks)](https://www.nexusmods.com/skyrimspecialedition/mods/992)
 
@@ -65,15 +64,15 @@ This list doesn't have any texture mods, so this just squeezes a bit more qualit
 
 Good trees :)
 
-## 7 - [Folkvangr - Grass and Landscape Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44899)
+## 7 - [The Great Cities - Minor Cities and Towns](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
 
 **Description:**
 
-*This is an extensive grass overhaul with a selection of high quality landscape textures to match.*
+*The Great Cities is for anyone that wants to breath new life into or was unsatisfied with the minor cities and towns of Skyrim. This mod has lore friendliness in mind and builds upon the unique charateristics of each location. Each overhaul tries to make the areas look significantly different without altering the vanilla feel and gameplay too much.*
 
 **Reasoning:**
 
-Good grass :)
+Compliments Dawn of Skyrim, and adds more life to the places where you'll probably be spending a lot of your time.
 
 ## 8 - [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074)
 
@@ -173,7 +172,7 @@ I was conflicted about adding this because of some of the voice acting, but it a
 
 **Reasoning:**
 
-He's cannon at this point. Some people don't like his VA, my only regret is that I couldn't get Lucien in as well ;).
+He's cannon at this point.
 
 ## 18 - [Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658)
 
@@ -185,15 +184,15 @@ He's cannon at this point. Some people don't like his VA, my only regret is that
 
 Pretty much the best vanilla+ NPC overhaul.
 
-## 19 - [Legacy of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+## 19 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
 
 **Description:**
 
-*Legacy of the Dragonborn will forever change how you play Skyrim. Not just a display mod, not just a quest mod, not just a new guild mod, but a complete foundational flagship mod to build an entire load order around. This DLC expansion sized mod adds hundreds of new items, dozens of new quests and hundreds of extra hours of play.*
+*Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.*
 
 **Reasoning:**
 
-I was conflicted about adding this as well (I find it's got some major feature creep), but no other mod adds this much content into the skyrim worldspace so it made the cut.
+Inigo's best friend :)
 
 ## 20 - [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
 
