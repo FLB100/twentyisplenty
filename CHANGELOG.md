@@ -4,6 +4,6 @@
 -=- [Gameplay](GAMEPLAY.md)
 -=- [Changelog](CHANGELOG.md) -=-
 
-## 1.0.0
+## Alpha 1.0.0
 
-- Initial release, yay!
+- Initial (alpha) release, yay!
