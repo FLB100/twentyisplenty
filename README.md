@@ -136,7 +136,7 @@ Please note that Twenty is Plenty uses Dolomite Weathers and no other lighting m
 
 ## The video game has been modified
 
-While there aren't a lot of mods in this list, the game still has some important differences, see [Gameplay] (GAMEPLAY.md) for details.
+While there aren't a lot of mods in this list, the game still has some important differences, see [Gameplay](GAMEPLAY.md) for details.
 
 ## How to start up Twenty is Plenty
 
