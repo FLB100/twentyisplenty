@@ -27,6 +27,7 @@
         - [ENB](#enb)
     - [The video game has been modified](#the-video-game-has-been-modified)
     - [How to start up Twenty is Plenty](#how-to-start-up-twenty-is-plenty)
+    - [Adding Your Own Mods](#adding-your-own-mods)
     - [Updating](#updating)
     - [Other Post Installation FAQ](#other-post-installation-faq)
         - [Removing the Modlist](#removing-the-modlist)
@@ -141,6 +142,10 @@ While there aren't a lot of mods in this list, the game still has some important
 ## How to start up Twenty is Plenty
 
 Navigate to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to "Run Twenty is Plenty" by selecting it in the dropdown box and then hitting the run button.
+
+## Adding your own mods
+
+With the exception of an ENB, I dont recommend or provide support for adding other mods into the list. Twenty Is Plenty is centred around the idea of restricting the modslist, so (in my opinion) it's antithetical to add mods. If you have issues with a modified version of the list, re-install it and check if it was an addon that caused the problem before asking for help.
 
 ## Updating
 
